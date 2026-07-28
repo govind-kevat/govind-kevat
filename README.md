@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:1a1a2e&text=Govind%20Kevat&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=40&desc=%3E%20Java%20Developer%20%7C%20Building%20Projects%20%7C%20Learning%20DSA&descAlignY=65&descSize=18" />
 </p>
@@ -23,12 +22,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 MCA Student at **LNCT, Bhopal**
-- ☕ Currently learning **Java & Data Structures and Algorithms**
-- 💻 Building Java projects and improving problem-solving skills
-- 🌱 Exploring **Git, GitHub, SQL, and Full Stack Development**
-- 🚀 Interested in Backend Development and Software Engineering
-- 🎯 Goal: Become a skilled Software Developer
+* 🎓 MCA Student at **LNCT, Bhopal**
+* ☕ Currently learning **Java & Data Structures and Algorithms**
+* 💻 Building Java projects and improving problem-solving skills
+* 🌱 Exploring **Git, GitHub, SQL, and Full Stack Development**
+* 🚀 Interested in Backend Development and Software Engineering
+* 🎯 Goal: Become a skilled Software Developer
 
 ---
 
@@ -42,14 +41,15 @@
 
 ## 🚀 Featured Project
 
-## 🌱 Eco-Score
+### 🌱 Eco-Score
 
 A Java-based application that promotes eco-friendly habits by calculating an environmental score based on user activities.
 
 ### ✨ Features
-- 🌍 Calculates environmental impact
-- 📊 Provides eco-friendly scoring system
-- 💡 Encourages sustainable lifestyle choices
+
+* 🌍 Calculates environmental impact
+* 📊 Provides eco-friendly scoring system
+* 💡 Encourages sustainable lifestyle choices
 
 🔗 Repository:
 https://github.com/govind-kevat/Eco-Score
@@ -113,4 +113,3 @@ https://github.com/govind-kevat/Eco-Score
 <p align="center">
   <b>☕ Java • 📚 DSA • 🌐 Full Stack Development • 🚀 Open Source</b>
 </p>
-```
