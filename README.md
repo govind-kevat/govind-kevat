@@ -91,6 +91,18 @@ A Java-based application that promotes eco-friendly habits by calculating an env
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=govind-kevat&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind-kevat&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 💻 Currently Learning
 
 <p align="center">
