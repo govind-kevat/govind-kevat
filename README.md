@@ -15,3 +15,14 @@ MCA Student • Java Developer • DSA Learner • Open Source Enthusiast
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=govind-kevat&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 MCA Student at **LNCT, Bhopal**
+- ☕ Currently learning **Java & Data Structures and Algorithms**
+- 💻 Building Java projects and improving problem-solving skills
+- 🌱 Learning **Git, GitHub, and Full Stack Development**
+- 🎯 Goal: Become a Software Developer
+- ⚡ Fun fact: I enjoy solving coding challenges and building real-world projects.
