@@ -25,6 +25,10 @@
 - 🚀 Building Projects
 - 💡 Always learning new technologies
 
+<p align="center">
+  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
+
 ---
 
 ## 💻 Tech Stack
