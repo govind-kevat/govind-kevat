@@ -33,4 +33,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=govind-kevat&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Govind%20Kevat&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+
+
+
+
 
