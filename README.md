@@ -34,3 +34,17 @@ MCA Student • Java Developer • DSA Learner • Open Source Enthusiast
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,git,github,vscode,idea&perline=5" />
 </p>
+---
+
+## 🚀 Featured Project
+
+### 🌱 Eco-Score
+
+A Java-based application that promotes eco-friendly habits by calculating an environmental score based on user activities.
+
+**✨ Features**
+- 🌍 Calculate environmental impact
+- 📊 Eco-friendly scoring system
+- 💡 Encourages sustainable habits
+
+🔗 **Repository:** https://github.com/govind-kevat/Eco-Score
