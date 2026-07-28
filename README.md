@@ -15,3 +15,11 @@
 - 🌱 Currently learning Git & GitHub
 - 🚀 Building Projects
 - 💡 Always learning new technologies
+
+- ---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,github,vscode&theme=dark" />
+</p>
