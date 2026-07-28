@@ -26,3 +26,11 @@ MCA Student • Java Developer • DSA Learner • Open Source Enthusiast
 - 🌱 Learning **Git, GitHub, and Full Stack Development**
 - 🎯 Goal: Become a Software Developer
 - ⚡ Fun fact: I enjoy solving coding challenges and building real-world projects.
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql,git,github,vscode,idea&perline=5" />
+</p>
