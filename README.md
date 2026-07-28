@@ -39,6 +39,16 @@
 
 ---
 
+## 🚀 Featured Project
+
+### 🌱 Eco-Score
+
+A Java-based project that helps users calculate and improve their environmental impact through eco-friendly scoring.
+
+🔗 **Repository:** https://github.com/govind-kevat/Eco-Score
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
