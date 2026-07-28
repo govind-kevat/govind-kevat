@@ -20,7 +20,7 @@
 - 🚀 Building Projects
 - 💡 Always learning new technologies
 
-- ---
+---
 
 ## 💻 Tech Stack
 
