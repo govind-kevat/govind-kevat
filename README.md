@@ -54,6 +54,14 @@ A Java-based project that helps users calculate and improve their environmental 
 
 ---
 
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Govind-kevat?theme=dark&font=Karma&ext=contest" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
