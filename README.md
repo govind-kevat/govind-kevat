@@ -48,3 +48,29 @@ A Java-based application that promotes eco-friendly habits by calculating an env
 - 💡 Encourages sustainable habits
 
 🔗 **Repository:** https://github.com/govind-kevat/Eco-Score
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/govind-kevat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/govind-kevat-96616233a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Govind-kevat/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 🏆 LeetCode Profile
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Govind-kevat?theme=dark&font=Karma&ext=contest" />
+</p>
