@@ -74,3 +74,15 @@ A Java-based application that promotes eco-friendly habits by calculating an env
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Govind-kevat?theme=dark&font=Karma&ext=contest" />
 </p>
+
+---
+
+## 💻 Currently Learning
+
+<p align="center">
+  <img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
+
+<p align="center">
+  <b>☕ Java • 📚 DSA • 🌐 Full Stack Development • 🚀 Open Source</b>
+</p>
