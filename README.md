@@ -3,6 +3,11 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Govind Kevat</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=govind-kevat&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <h3 align="center">MCA Student | Java Developer | DSA Learner 🚀</h3>
 
 <p align="center">
