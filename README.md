@@ -1,87 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Govind%20Kevat&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Govind%20Kevat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Govind Kevat</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=govind-kevat&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<h3 align="center">MCA Student | Java Developer | DSA Learner 🚀</h3>
+<h3 align="center">
+MCA Student • Java Developer • DSA Learner • Open Source Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Learning+DSA;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Java+Developer;Learning+Data+Structures+%26+Algorithms;Building+Real+World+Projects;Always+Learning+New+Things" />
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 MCA Student
-- ☕ Learning Java
-- 📚 Solving DSA Problems
-- 🌱 Currently learning Git & GitHub
-- 🚀 Building Projects
-- 💡 Always learning new technologies
 
 <p align="center">
-  <img alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://komarev.com/ghpvc/?username=govind-kevat&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
 </p>
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,github,vscode&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Project
-
-### 🌱 Eco-Score
-
-A Java-based project that helps users calculate and improve their environmental impact through eco-friendly scoring.
-
-🔗 **Repository:** https://github.com/govind-kevat/Eco-Score
-
----
-
-## 🏆 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Govind-kevat?theme=dark&font=Karma&ext=contest" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govind-kevat&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/govind-kevat">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/govind-kevat-96616233a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/u/Govind-kevat/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
-
-
-
-
-
