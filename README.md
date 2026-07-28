@@ -62,6 +62,14 @@ A Java-based project that helps users calculate and improve their environmental 
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=govind-kevat&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
