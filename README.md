@@ -70,6 +70,14 @@ A Java-based project that helps users calculate and improve their environmental 
 
 ---
 
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=govind-kevat&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
