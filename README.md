@@ -2,7 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,100:06B6D4&text=Govind%20Kevat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Govind Kevat</h1>
+<h1 align="center">
+  Hi 👋, I'm Govind Kevat
+</h1>
+
+<h3 align="center">
+  MCA Student | Java Developer | Aspiring Software Engineer
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=govind-kevat&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Developer;MCA+Student;Learning+DSA;Building+Projects" />
+</p>
 
 <h3 align="center">
 MCA Student • Java Developer • DSA Learner • Open Source Enthusiast
