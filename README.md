@@ -82,7 +82,7 @@ https://github.com/govind-kevat/Eco-Score
 
 </p>
 
---- ## 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/govind-kevat/govind-kevat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
