@@ -82,6 +82,8 @@ https://github.com/govind-kevat/Eco-Score
 
 </p>
 
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
